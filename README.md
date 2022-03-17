@@ -1,7 +1,7 @@
 # Meme Generator
 
-This is Udacity Intermediate Python project that can generate a meme by placing a provided text caption onto a provided
-image. It can load quotes from a variaty of filetypes(PDF, Word Documents, CSVs, Text files). Load, manipulate and save images.
+This is a Udacity Intermediate Python project that can generate a meme by placing a provided text caption onto a provided
+image. It can load quotes from a variaty of filetypes (PDF, Word Documents, CSVs, Text files). Load, manipulate and save images.
 It accepts dynamic user input through a command-line tool and a web service.
 
 
@@ -32,7 +32,7 @@ There are two ways to run this program:
 
 The result is stored in folder  `src/temp `
 
-## Some improvements to do 
+## Some improvements to do.. 
 - Handle user invalid inputs, specifically,  add an /templates/meme_error.html page and redirect to that page.
 - Define custom exception classes for different types of exceptions—for things like Invalid File, Invalid Text Input (e.g. too long)
 - Use os.walk to automatically discover ingestible files in a directory
